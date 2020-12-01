@@ -1,0 +1,10 @@
+https://blog.csdn.net/fengdu78/article/details/103775760
+https://blog.csdn.net/shuiyixin/article/details/82533849            yolo 详细解说
+http://codec.wang/#/opencv/start/challenge-02-create-gui-with-pyqt5   opencv
+
+办公\pycharm\pythonProject\斗地主
+
+https://blog.csdn.net/v_JULY_v/article/details/80170182?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight         	目标检测详细解说
+
+
+http://think-like-a-git.net/sections/about-this-site/who-this-site-is-for.html    //git 英文教程
